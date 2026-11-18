@@ -4,10 +4,15 @@ Formula:
 - Profit = Selling Price − Cost Price
 - Profit Margin = (Profit / Selling Price) × 100
 Product	Cost	Selling price	Profit	Profit margin
+
 Office Chair	$120	$179	$59	32.96%
+
 Storage Cabinet	$85	$129	$44	34.11%
+
 Garden Table	$150	$219	$69	31.51%
+
 Tool Box	$45	$69	$24	34.78%
+
 Bedside Table	$60	$99	$39	39.39%
 
 2. Which product has the highest profit margin?
