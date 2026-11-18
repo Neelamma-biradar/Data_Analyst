@@ -40,6 +40,7 @@ Example: =XLOOKUP(A2,E2:E10,F2:F10,"Not Found")
 Bonus – Pivot Table
 
 A Pivot Table is used to summarise and analyse large amounts of data. It helps identify total sales, product performance, category-wise revenue, and monthly trends without manually calculating everything.
+
 Question 3 – Data Cleaning
 Answer:
 
@@ -91,6 +92,7 @@ Observations to look for:
 - Which competitor offers the largest discounts?
 - Are there differences in product quality and features?
 Important: You need 15 actual product entries (3 per competitor). The table above is a template, not completed live research.
+
 Question 5 – Find a Product Opportunity
 Answer:
 I would select the following three product opportunities for the Australian e-commerce market.
@@ -117,6 +119,7 @@ Conclusion:
 I would compare these products based on market demand, competitor pricing, customer reviews, shipping costs, and expected profit margins. I would select the product that offers a good balance between customer demand and profitability.
 
 These prices are initial research estimates, not verified current Australian market prices. Add actual evidence and source links before submitting.
+
 Question 6 – Competitor Price Analysis
 Given information:
 - Selling price = $149.95
@@ -159,6 +162,7 @@ ProductReview Australia	Customer reviews and product feedback	Understand custome
 
 Conclusion:
 I would use these websites to understand market demand, compare competitor prices, identify trending products, and analyse customer feedback before recommending a new product category.
+
 Question 8 – Data Investigation
 Given sales data:
 Month	Visitors	Orders	Sales
@@ -230,6 +234,7 @@ The website visit to product-page stage appears to have the biggest problem beca
 
 6. What would you investigate next?
 I would investigate website navigation, product visibility, advertisement relevance, page loading speed, and customer experience. I would also check whether the website is attracting the right target audience.
+
 Question 10 – Research Accuracy
 Answer:
 
@@ -271,6 +276,7 @@ Explanation:
 I would first complete the competitor price report because it has a same-day deadline. Next, I would correct the product records to ensure data accuracy. Then, I would prepare tomorrow's management report in advance. After completing these important tasks, I would spend the remaining time researching a new product category and identifying potential products.
 
 If priorities or deadlines change, I would communicate with my manager and adjust the schedule accordingly.
+
 Question 13 – Missing Information
 Question: Your manager asks you to find the top 20 best-selling products in Australia, but no single website provides an accurate list.
 
@@ -293,6 +299,7 @@ I would define best-selling based on available evidence, such as sales rankings,
 I would prepare an Excel report containing product name, category, competitor, price, popularity evidence, customer ratings, source links, and observations.
 
 Finally, I would present the top 20 products with supporting evidence and clearly mention any limitations in the available data.
+
 Question 14 – You Don't Know the Tool
 Question: Your manager asks you to create an Excel report using XLOOKUP and Pivot Tables, but you have never used XLOOKUP before.
 
@@ -306,6 +313,7 @@ My steps would be:
 5. I would check the formulas and validate the results for accuracy.
 6. Finally, I would prepare the report and submit it before the deadline.
 I believe I am a quick learner, and I am confident that I can learn new tools through practice and apply them effectively to complete my work.
+
 Question 15 – Final Research Challenge
 Question: You have two hours to identify one new product opportunity for During Days in Australia. Explain your approach from beginning to end.
 
