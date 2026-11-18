@@ -5,7 +5,7 @@ Formula:
 - Profit Margin = (Profit / Selling Price) × 100
 Product	Cost	Selling price	Profit	Profit margin
 
-Office Chair	$120	$179	$59	32.96%
+Office Chair $120	$179	$59	32.96%
 
 Storage Cabinet	$85	$129	$44	34.11%
 
